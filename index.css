@@ -1,0 +1,41 @@
+ body{
+
+    background-color:rgb(207, 230, 189) ;
+}
+.head{
+    font-size: 50px;
+    color: rgb(233, 93, 210);
+    padding-left:40px;
+    padding-right: 0%;
+    
+    margin-right: 65%;
+    margin-left:5px;
+}
+.head:hover{
+    color:#48f7c3;
+    background:rgb(178, 120, 185);
+    box-shadow: 0 0 10px rgb(117, 212, 117) , 0 0 40px rgb(219, 187, 42) , 0 0 10px green;
+    transition-delay: 0s;
+ 
+
+}
+.hori{
+    height: 4px;
+    background-color:#48f7c3;
+}
+.link{
+    background-color:#ffc0c0b8;
+    font-size: 25px;
+    padding-left: 20px;
+    color:#bf05fb;
+}
+.photo{
+    font-size: 35px;
+    padding-left: 70px;
+    color: yellowgreen;  
+}
+.photos{
+    position: relative;
+
+}
+
